@@ -3,14 +3,14 @@
 * Caso tenha cometido algum erro ou equivoco e/ou queira contribuir com o resumo manda a sua pull request :) ou faz um fork o importante é espalhar a palavra.
 
 - Instalação <br>
-Há algumas formas para instalar o dart você poderá conferi-las no link abaixo
+Há algumas formas para instalar o dart você poderá conferi-las no link abaixo<br>
 https://dart.dev/get-dart#install
 
 - Para este resumo foi realizado a instalação seguindo os passos a seguir:
 
 * Dart SDK archive 
-    - acesse o link abaixo e siga as instruções esta instalação foi realizada em uma maquina Windows 10
-    - https://dart.dev/tools/sdk/archive
+    - acesse o link abaixo e siga as instruções esta instalação foi realizada em uma maquina Windows 10<br>
+    https://dart.dev/tools/sdk/archive
     - na tabela selecione 32 bits ou 64 bits e click no link Dart SDK para baixar o zip
     - atente-se as versões recomenda-se baixar uma versão estable na página também esta disponível as versões beta das releases do dart.
 

@@ -16,7 +16,7 @@ https://dart.dev/get-dart#install
 
     - crie uma pasta src no seu disco local C:\ recomenda-se este diretorio para não ter problemas de permissão de usuário.<br>
     esperado >>> C:\src
-    - copie ou recorte o arquivo zip baixado descompacte ele dentro do diretorio C:\src
+    - copie ou recorte o arquivo zip baixado descompacte ele dentro do diretorio C:\src<br>
     esperado >>> C:\src\dart-sdk
 
     - próximo passo abra as configurações das variaveis de ambiente e selecione a opção path do usuario 

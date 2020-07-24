@@ -26,3 +26,56 @@ https://dart.dev/get-dart#install
     - abra algum terminal da sua prefencia cmd, powershell
     - insira o comando a seguir dart --version<br>
     esperado >>> informações da versão do SDK instalado 
+
+* Hello world! - Dart
+    - abra o seu editor de texto pode ser o vscode ou algum da sua preferença crie um diretorio para armazenar seus arquivos e dentro do diretorio crie o arquivo hello.dart<br>
+    Caso venha a utilizar o vscode é possível utilizar extensões que irão nos ajudar durante o desenvolvimento,<br> inclusive para gerenciar os nossos arquivos via terminal pois ele já tem o mesmo embutido.
+    - após criar o arquivo hello.dart veja o código de referencia do arquivo 1-hello.dart neste mesmo diretório.<br>1-hello.dart
+    - para rodar o arquivo abra o terminal e entre no diretorio do arquivo <br>
+    execute o comando dart 1-hello.dart <br>
+    esperado >>> mensagem no console ex: hello world!!!
+
+* Compilando o arquivo dart para javascript
+    - por padrão o browser não aceita dart então teremos que fazer a conversão dele para javascript
+    - utilizando o arquivo 1-hello.dart como exemplo faremos a conversão dele para o js utilizando o comando abaixo<br>
+    - dart2js -o nomeArquivoConvertido.js nomeArquivoDart.dart
+    - é possíve utilizar -o > gera saida js -m > gera uma saida minificada -h Apresentar uma msg mensagem
+
+* Dart linha de comando
+    - ...
+
+* Identificadores dart
+    - Identificadores validos: firstName, first_name, num1, $result
+    - Identificadores invalidos: Var, first name, first-name, 1num
+
+* Palavras chave - Keywords
+    - anexar imagem
+
+* Dart sintaxe
+    - variaveis e operadores
+    - classes
+    - functions
+    - expressoes e contrutores
+    - condições e loop's 
+    - comentarios 
+    - libs e pacotes
+    - typedefs 
+    - estrutura de dados representando coleções / genericas
+
+* Dart é Case-Sensitive
+    - ...
+
+* Dart Comentarios 
+    - utilize // para linhas simples 
+    - utilize /* ... */ para mutliplas linhas
+
+* Dart é Orientado a Objeto 
+    - é isso mesmo orientado a objeto rs
+
+* Dart variaveis - tipos de dados
+    - ver o arquivo 2-type-vars.dart
+
+
+
+
+    
